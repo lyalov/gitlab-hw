@@ -10,3 +10,5 @@ Yalov Leonid
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 Ответ 1.1 
 Развернул  GitLab локально с помощью Vagrant  файла
+Скриншот
+![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
