@@ -12,3 +12,6 @@ Yalov Leonid
 Развернул  GitLab локально с помощью Vagrant  файла
 Скриншот
 ![alt text](https://github.com/lyalov/gitlab-hw/blob/main/1.png)
+Настройка гитранера
+Скриншот
+![alt text](https://github.com/lyalov/gitlab-hw/blob/main/egruner.png)
