@@ -11,4 +11,4 @@ Yalov Leonid
 Ответ 1.1 
 Развернул  GitLab локально с помощью Vagrant  файла
 Скриншот
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+![alt text](https://github.com/lyalov/gitlab-hw/blob/main/1.png)
