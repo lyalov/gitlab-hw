@@ -15,3 +15,6 @@ Yalov Leonid
 Настройка гитранера
 Скриншот
 ![alt text](https://github.com/lyalov/gitlab-hw/blob/main/egruner.png)
+
+Задание 2 
+<img width="1877" height="1012" alt="image" src="https://github.com/user-attachments/assets/96c05541-b13b-40ea-aff3-896a76046757" />
