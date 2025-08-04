@@ -23,7 +23,8 @@ Yalov Leonid
 Выполнение Build
 ![alt text](https://github.com/lyalov/gitlab-hw/blob/main/build.png)
 Для работы нужен фаил  .gitlab-ci.yml
-https://github.com/lyalov/gitlab-hw/blob/main/.gitlab-ci.yml
+
 ![alt text](https://github.com/lyalov/gitlab-hw/blob/main/.gitlab-ci.yml)
+
 и Dockerfile
 ![alt text](https://github.com/lyalov/gitlab-hw/blob/main/Dockerfile)
