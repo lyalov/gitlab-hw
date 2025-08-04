@@ -20,3 +20,5 @@ Yalov Leonid
 запуск сборки 
 успешное выполнение test
 ![alt text](https://github.com/lyalov/gitlab-hw/blob/main/test.png)
+Выполнение Build
+![alt text](https://github.com/lyalov/gitlab-hw/blob/main/build.png)
