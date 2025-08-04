@@ -24,6 +24,9 @@ Yalov Leonid
 ![alt text](https://github.com/lyalov/gitlab-hw/blob/main/build.png)
 Для работы нужен фаил  .gitlab-ci.yml
 
+<pre> ```yaml stages: - test - build test: stage: test image: golang:1.17 script: - go test . build: stage: build image: docker:latest script: - docker build . ``` </pre>
+
+
 ![alt text](https://github.com/lyalov/gitlab-hw/blob/main/.gitlab-ci.yml)
 
 и Dockerfile
