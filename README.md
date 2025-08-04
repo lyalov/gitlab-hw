@@ -70,3 +70,5 @@ COPY --from=builder /myapp /app
 CMD ["/app"]
 
 ![Dockerfile](https://github.com/lyalov/gitlab-hw/blob/main/Dockerfile)
+
+В Vangrant файле по разворачиваю виртуалки ubuntu есть ошибка установка docker-ee но он теперь платный и нужно ставить  docker-ce!
