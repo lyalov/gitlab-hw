@@ -17,4 +17,6 @@ Yalov Leonid
 ![alt text](https://github.com/lyalov/gitlab-hw/blob/main/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20docker-runner.png)
 
 Задание 2 
-<img width="1877" height="1012" alt="image" src="https://github.com/user-attachments/assets/96c05541-b13b-40ea-aff3-896a76046757" />
+запуск сборки 
+успешное выполнение test
+![alt text](https://github.com/lyalov/gitlab-hw/blob/main/test.png)
